@@ -32,7 +32,7 @@ html {
   body {
     color: var(--mainBlack);
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.651);
+    background-color: rgba(255, 0, 0, 0.651);
     height: 100%;
     overflow-x: hidden;
     font-family: 'Roboto', sans-serif;
