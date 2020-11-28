@@ -67,6 +67,7 @@ html {
     height: 9vh;
     width: 100%;
     display: flex;
+    border-radius: 20px;
     align-items: center;
     background: rgb(61, 61, 61);
     z-index: 1;
