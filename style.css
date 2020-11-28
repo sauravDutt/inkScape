@@ -38,7 +38,7 @@ html {
     font-family: 'Roboto', sans-serif;
   }
   body::-webkit-scrollbar {
-    width: .5rem;
+    width: 0px;
   }
   
   body::-webkit-scrollbar-track {
@@ -67,7 +67,6 @@ html {
     height: 9vh;
     width: 100%;
     display: flex;
-    border-radius: 20px;
     align-items: center;
     background: rgb(61, 61, 61);
     z-index: 1;
@@ -280,6 +279,10 @@ html {
   @media screen and (max-width: 500px) {
     .logo {
       width: 200px;
+    }
+    .navbar {
+
+      border-radius: 20px;
     }
     .banner {
       margin-top: -90px;
