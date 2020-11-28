@@ -263,6 +263,7 @@ html {
     font-family: 'Logo';
   }
   .copyright{
+    margin-top: -10px;
     width: 100%;
     height: 8vh;
     text-align: center;
