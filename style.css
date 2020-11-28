@@ -270,6 +270,8 @@ html {
     text-align: center;
     background-color: rgb(61, 61, 61);
     padding-top: 1rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     padding-bottom: 2rem;
     position: relative;
     color: #fff;
