@@ -62,16 +62,14 @@ html {
 
   .navbar {
     position: sticky;
-    top: 0;
-    margin-top: 10px;
-    
+    top: 91.6vh;
+    color: #fff;
     height: 60px;
     width: 100%;
+    border-radius: 20px;
     display: flex;
     align-items: center;
-    background: rgba(255, 255, 255, 0.829);
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
+    background: rgb(61, 61, 61);
     z-index: 1;
   }
   h2 {
@@ -81,7 +79,8 @@ html {
   .logo-title {
       margin-top: 5px;
       font-family: 'Logo';
-      color: #3c1557;
+      color: #ffffff;
+      font-weight:500;
   }
   .logo-title-division{
     font-family: 'Roboto', sans-serif;
@@ -90,7 +89,7 @@ html {
   }
   .logo-title-division-store {
     font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-weight: 300;
   }
   .navbar-center {
     width: 100%;
@@ -102,7 +101,7 @@ html {
     padding: 0 1.5rem;
   }
   .nav-icon {
-    color: #471469;
+    color: #fff;
     font-size: 1.5rem;
   }
   .cart-btn {
@@ -266,15 +265,13 @@ html {
   }
   .copyright{
     width: 100%;
-    height: 5vh;
+    height: 8vh;
     text-align: center;
-    background-color: #fff;
+    background-color: rgb(61, 61, 61);
     padding-top: 1rem;
-    border-top-left-radius: 30px;
-    border-top-right-radius: 30px;
     padding-bottom: 2rem;
     position: relative;
-    color: #3c1e50;
+    color: #fff;
 }
 
   @media screen and (max-width: 500px) {
