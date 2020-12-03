@@ -2,12 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 
-@font-face{
 
-    font-family: 'The Historia demo';
-    src: url(../TheHistoriaDemo1.ttf);
-    font-style: normal;
-}
 @font-face{
   font-family: 'Logo';
   src: url('./TheHistoriaDemo.otf');
@@ -137,7 +132,6 @@ html {
   .banner-title {
     font-size: 3.4rem;
     color: #1a0824e7;
-    font-family: "Roboto" sans-serif;
     font-weight: 100;
     font-family: 'Logo';
     letter-spacing: var(--mainSpacing);
