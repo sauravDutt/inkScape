@@ -57,9 +57,9 @@ html {
 
   .navbar {
     position: sticky;
-    top: 91vh;
+    top: 90vh;
     color: #fff;
-    height: 9vh;
+    height: 10vh;
     width: 100%;
     display: flex;
     align-items: center;
@@ -72,6 +72,7 @@ html {
   }
   .logo-title {
       margin-top: 5px;
+      font-size: 2rem;
       font-family: 'Logo';
       color: #ffffff;
       font-weight:500;
@@ -273,10 +274,6 @@ html {
   @media screen and (max-width: 500px) {
     .logo {
       width: 200px;
-    }
-    .navbar {
-
-      border-radius: 20px;
     }
     .banner {
       margin-top: -90px;

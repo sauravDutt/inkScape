@@ -4,72 +4,36 @@
       "sys": { "id": "1" },
       "fields": {
         "title": "Wiz Khalifa",
-        "discription": "Cameron Jibril Thomaz, better known by his stage name Wiz Khalifa, is an American rapper, singer, songwriter, and actor. He released his debut album, Show and Prove, in 2006, and signed to Warner Bros. Records in 2007.",
+        "discription": "A beautifull sketch on an A1-Size canvas of Cameron Jibril Thomaz, better known by his stage name Wiz Khalifa, is an American rapper, singer, songwriter, and actor. He released his debut album, Show and Prove, in 2006, and signed to Warner Bros. Records in 2007.",
         "price": 999,
         "image": { "fields": { "file": { "url": "./images/product-1.png" } } }
-      }
-    },
-    {
-      "sys": { "id": "11" },
-      "fields": {
-        "title": "DIY canvas oil painting",
-        "discription":"Form: Single Material: Canvas Frame mode: Unframed Shape: Horizontal Rectangle Support Base: Canvas Medium: Oil Style: Abstract Original: No Technics: Hand Painted Frame: No Type: Oil Paintings Brand Name: zoho customized: Yes Type: Handpainted Calligraphy and painting type: Canvas Painting Shape: Rectangle ",
-        "price": 999,
-        "image": { "fields": { "file": { "url": "./images/product-11.jpeg" } } }
       }
     },
     {
       "sys": { "id": "2" },
       "fields": {
         "title": "Once Upon a Time in Hollywood",
-        "discription": "Rick, a washed-out actor, and Cliff, his stunt double, struggle to recapture fame and success in 1960s Los Angeles. Meanwhile, living next door to Rick is Sharon Tate and her husband Roman Polanski. Once Upon a Time in Hollywood is a comedy-drama film written and directed by Quentin Tarantino. Released in 2019.",
+        "discription": "A beautifull sketch on an A1-Size canvas of Rick, a washed-out actor, and Cliff, his stunt double, played by Leo DiCaprio and Brad Pitt in Once Upon a Time in Hollywood, it is a comedy-drama film written and directed by Quentin Tarantino. Released in 2019.",
         "price": 999,
         "image": { "fields": { "file": { "url": "./images/product-2.png" } } }
-      }
-    },
-    {
-      "sys": { "id": "7" },
-      "fields": {
-        "title": "Kokodama",
-        "discription":"Kokodama, say no to plantics grow plants in coconut shell a DIY planter made out of waste coconut shell... Which goes easy on environment and looks quickly and attractive",
-        "price": 999,
-        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
       }
     },
     {
       "sys": { "id": "3" },
       "fields": {
         "title": "Trailer Park Boys",
-        "discription":"Nova Scotia's trailer parks are colorful thanks to residents Ricky, Bubbles and Julian. Together, they plan mad capers, usually get-rich-quick schemes, with plenty of screw-ups along the way. They're constantly being hunted by their former trailer park supervisor, Jim Lahey, and his perpetually shirtless, pot-belled assistant, Randy.",
+        "discription":"A beautifull sketch on an A1-Size canvas of Ricky, Bubbles and Julian. Together, they plan mad capers, usually get-rich-quick schemes, with plenty of screw-ups along the way. They're constantly being hunted by their former trailer park supervisor, Jim Lahey, and his perpetually shirtless, pot-belled assistant, Randy.",
         "price": 999,
         "image": { "fields": { "file": { "url": "./images/product-3.png" } } }
-      }
-    },
-    {
-      "sys": { "id": "6" },
-      "fields": {
-        "title": "Gautama Buddha",
-        "discription":"The Buddha was a philosopher, mendicant, meditator, spiritual teacher, and religious leader who lived in Ancient India. He is revered as the founder of the world religion of Buddhism, and worshiped by most Buddhist schools as the Enlightened One who has transcended Karma and escaped the cycle of birth and rebirth.",
-        "price": 999,
-        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
       }
     },
     {
       "sys": { "id": "4" },
       "fields": {
         "title": "Dark Knight Rises",
-        "discription":"Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again. The Dark Knight Rises is a 2012 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan, and the story with David S. Goyer. Based on the DC Comics character Batman, it is the final installment in Nolan's The Dark Knight Trilogy.",
+        "discription":"A beautifull sketch on an A1-Size canvas of Bane and Batman from The Dark Knight Rises is a 2012 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan, and the story with David S. Goyer. Based on the DC Comics character Batman, it is the final installment in Nolan's The Dark Knight Trilogy.",
         "price": 999,
         "image": { "fields": { "file": { "url": "./images/product-4.png" } } }
-      }
-    },
-    {
-      "sys": { "id": "12" },
-      "fields": {
-        "title": "Diy hand made mask",
-        "discription":"Material: The mask is made of Double cotton layers to avoid the dust particles to enter. Front and Back Cover 100% Cotton Comfort-Fit,& Easy To Use: Superior fit and greater comfort to face. These masks are made from the softest material to avoid rashes or itching Utility: Ideal for protecting you from Dust, Germs, Allergies, Smoke, Pollution, Ash, Pollen. Foldable and easily fit inside pocket when not in use Ear Loops: Our Mask with stretchy elasticated earloops for closely fitting, easy to wear, and off!",
-        "price": 999,
-        "image": { "fields": { "file": { "url": "./images/product-12.jpeg" } } }
       }
     },
 
@@ -77,36 +41,9 @@
       "sys": { "id": "5" },
       "fields": {
         "title": "Shazam!",
-        "discription":"Shazam, is a fictional superhero appearing in American comics originally published by Fawcett Comics, and currently published by DC Comics. Artist C. C. Beck and writer Bill Parker created the character in 1939. Captain Marvel first appeared in Whiz Comics #2 (cover-dated Feb. 1940), published by Fawcett Comics. He is the alter ego of Billy Batson, a boy who, by speaking the magic word 'SHAZAM!'.",
+        "discription":"A beautifull sketch on an A1-Size canvas of Shazam fighting Black Adam with Superman, Shazam is a fictional superhero appearing in American comics originally published by Fawcett Comics, and currently published by DC Comics. Artist C. C. Beck and writer Bill Parker created the character in 1939. Captain Marvel first appeared in Whiz Comics #2 (cover-dated Feb. 1940).",
         "price": 999,
         "image": { "fields": { "file": { "url": "./images/product-5.png" } } }
-      }
-    },
-    {
-      "sys": { "id": "8" },
-      "fields": {
-        "title": "hand painted floral coffee mug",
-        "discription":"Hand painted floral coffee mug, amazing coffee mug with colourful flowers. It is a great gift as it a personalized hand painted perfectly suits as a gift for your dear ones.",
-        "price": 999,
-        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
-      }
-    }, 
-    {
-      "sys": { "id": "9" },
-      "fields": {
-        "title": "talavera mexican ceramic flower vase",
-        "discription":"Mexican talavera ceramic flower vases from dolores hidalogo are one of our most popular gifts.",
-        "price": 999,
-        "image": { "fields": { "file": { "url": "./images/product-9.jpeg" } } }
-      }
-    },
-    {
-      "sys": { "id": "10" },
-      "fields": {
-        "title": "DIY photo frame",
-        "discription":"Set Content: 3 photo frames Colour: Beige Frame Pattern: Rustic pebbles Collage Photo Frame Material of frame: Wood,flat pebbles Type: Table-top Capacity: 4 photos Size & Fit Dimensions: 25 cm x 19.5 cm x 3 cm each Photo Size: 15.24 cm x 10.16 cm each Material & Care Wood Clean it with soft cotton cloth or soft brush Specifications Frame Material Wood Number of Photos 2 to 4. ",
-        "price": 999,
-        "image": { "fields": { "file": { "url": "./images/product-10.jpeg" } } }
       }
     }
     
