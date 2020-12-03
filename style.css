@@ -111,7 +111,13 @@ h2 {
   border-radius: 30%;
   color: var(--mainWhite);
 }
-
+#infoBtn{
+  text-decoration: none; 
+  color: #fff;
+}
+#infoBtn:hover {
+  color: #571794;
+}
 .hero {
   min-height: calc(100vh - 60px);
   display: flex;
