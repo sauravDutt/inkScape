@@ -20,7 +20,7 @@
         <nav class="navbar">
             <div class="navbar-center">
                 <span class="nav-icon">
-                    <a href="https://sauravdutt.tech/" id="infoBtn" ><i class="fas fa-info-circle" style="font-size:2rem"></i></a>
+                    <a href="#info" id="infoBtn" ><i class="fas fa-info-circle" style="font-size:2rem"></i></a>
                 </span>
                 <a href="#🍺"
                     style="text-decoration: none;"
@@ -103,6 +103,25 @@
         </div>
     </div>
 
+    <div id="infoModal" class="modalAdd">
+        <div class="modal-content-add">
+            <div class="modal-header">
+                <span class="closeBtn" id="closeBtnInfo">
+                    &times;
+                </span>
+                <h2 class="checkOut-title">Info</span></h2>
+            </div>
+            <div class="modal-body">
+                <p style="text-align: center;">
+                    The checkout facility is presently not available Please feel free to call at +91-99584-79837 and place an order manually.
+                </p>
+                <p style="text-align: center; padding: 20px;">
+                    
+                </p><br>
+            </div>
+        </div>
+    </div>
+
     <script>
         var loader;
         function loadNow(opacity){
@@ -131,15 +150,26 @@
         var modal = document.getElementById('addModal');
         var modalBtn = document.getElementById('add')
         var closeBtn = document.getElementById('closeBtnAdd');
+        var infoModalBtn = document.getElementById('infoBtn');
+        var infoModal = document.getElementById('infoModal');
+        var infoCloseBtn = document.getElementById('closeBtnInfo');
 
         modalBtn.addEventListener('click', openModal);
+        infoModalBtn.addEventListener('click', openInfoModal);
 
+        function openInfoModal() {
+            infoModal.style.display = 'block'
+        }
         function openModal() {
             modal.style.display = 'block'
         }
 
+        infoCloseBtn.addEventListener('click', closeInfoModal)
         closeBtn.addEventListener('click', closeModal);
 
+        function closeInfoModal() {
+            infoModal.style.display = 'none';
+        }
         function closeModal() {
             modal.style.display = 'none';
         }
@@ -151,6 +181,9 @@
             if(e.target == modal) {
                 modal.style.display = 'none';
                 
+            }
+            if(e.target == infoModal) {
+                infoModal.style.display = 'none';
             }
             
         }
