@@ -522,8 +522,8 @@ input::-webkit-inner-spin-button {
     font-size: 20px;
   }
   .modal-content-add {
-    margin-top: 15vh;
-    width: 95%;
+    margin-top: 10vh;
+    width: 92%;
     height: auto;
   }
 }
