@@ -134,6 +134,7 @@ h2 {
 .hero {
   min-height: calc(100vh - 60px);
   display: flex;
+  margin-top: -150px;
   align-items: center;
   justify-content: center;
 }
