@@ -144,7 +144,7 @@ h2 {
   margin-bottom: 2rem;
 }
 .banner-info {
-  font-family: "Indie Flower";
+  font-family: "Poiret One", cursive;
   color: rgb(46, 17, 56);
   font-size: 1.5rem;
   margin: 15px auto;
@@ -478,6 +478,8 @@ h2 {
   padding: 15px;
 }
 .modal-body {
+  font-family: "Poiret One", cursive;
+  font-weight: 530;
   padding: 10px 20px;
 }
 .modal-footer {
