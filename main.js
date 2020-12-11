@@ -59,6 +59,9 @@ class UI {
                     </b></p>
                     <h4 > ₹ ${product.price}</h4>
                     <br />
+                    <br />
+                    <br />
+                    <br />
                 </div>
                 </article>
             `
