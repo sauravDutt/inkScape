@@ -8,6 +8,8 @@ const cartOverlay = document.querySelector('.cart-overlay');
 const cartItems = document.querySelector('.cart-items');
 const cartTotal = document.querySelector('.cart-total');
 const cartContent = document.querySelector('.cart-content');
+const checkOutTotal = document.querySelector('#checkoutTotal');
+const checkOutTotalProducts = document.querySelector('#checkoutTotalItems');
 const productsDOM = document.querySelector('.product-center');
 // Main Cart
 let cart = [];
@@ -107,7 +109,8 @@ class UI {
         });
         cartTotal.innerText = parseFloat(tempTotal.toFixed(2));
         cartItems.innerText = itemsTotal;
-        
+        checkOutTotal.innerText = parseFloat(tempTotal.toFixed(2));
+        checkOutTotalProducts.innerText = itemsTotal;
     }
     addCartItem(item) {
         const div = document.createElement('div');
