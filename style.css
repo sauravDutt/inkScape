@@ -50,7 +50,7 @@ body::-webkit-scrollbar-thumb {
   height: 100vh;
   z-index: 50;
   overflow: visible;
-  background: #f1f2f3 url("images/loder.gif") no-repeat center center;
+  background: #ffffff url("images/loder.gif") no-repeat center center;
 }
 /*End Preloader*/
 
@@ -64,6 +64,7 @@ body::-webkit-scrollbar-thumb {
   z-index: 1;
 }
 .copyright {
+  margin-top: -13px;
   padding: 0 auto ;
   text-align: center;
   color: #fff;
@@ -182,7 +183,8 @@ h2 {
   color: var(--primaryColor);
 }
 .products {
-  background-color: rgba(255, 255, 255, 0.801);
+  background-color: rgba(255, 255, 255, 0);
+  color: #fff;
 }
 input[type=text], input[type=number], input[type=email]
 {
@@ -255,7 +257,7 @@ textarea {
 .project-discription {
   margin-left: 1rem;
   margin-right: 2rem;
-  color: rgb(52, 5, 70);
+  color: rgb(255, 255, 255);
   flex: 1;
 }
 .project-discription h3 {
@@ -263,7 +265,7 @@ textarea {
   font-weight: 300;
   font-family: "Logo";
   margin: 1rem 0;
-  color: rgba(49, 11, 63, 0.774);
+  color: rgba(255, 255, 255, 0.774);
   user-select: none;
 }
 .project-discription p {
