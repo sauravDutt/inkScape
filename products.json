@@ -3,7 +3,7 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "Wiz Khalifa",
+        "title": "WizKhalifa",
         "discription": "A beautifull sketch on an A1-Size canvas of Cameron Jibril Thomaz, better known by his stage name Wiz Khalifa, is an American rapper, singer, songwriter, and actor. He released his debut album, Show and Prove, in 2006, and signed to Warner Bros. Records in 2007.",
         "price": 999,
         "image": { "fields": { "file": { "url": "./images/product-1.png" } } }
@@ -12,7 +12,7 @@
     {
       "sys": { "id": "2" },
       "fields": {
-        "title": "Once Upon a Time in Hollywood",
+        "title": "OnceUpon a Time in Hollywood",
         "discription": "A beautifull sketch on an A1-Size canvas of Rick, a washed-out actor, and Cliff, his stunt double, played by Leo DiCaprio and Brad Pitt in Once Upon a Time in Hollywood, it is a comedy-drama film written and directed by Quentin Tarantino. Released in 2019.",
         "price": 999,
         "image": { "fields": { "file": { "url": "./images/product-2.png" } } }
@@ -21,7 +21,7 @@
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "Trailer Park Boys",
+        "title": "TrailerParkBoys",
         "discription":"A beautifull sketch on an A1-Size canvas of Ricky, Bubbles and Julian. Together, they plan mad capers, usually get-rich-quick schemes, with plenty of screw-ups along the way. They're constantly being hunted by their former trailer park supervisor, Jim Lahey, and his perpetually shirtless, pot-belled assistant, Randy.",
         "price": 999,
         "image": { "fields": { "file": { "url": "./images/product-3.png" } } }
@@ -30,7 +30,7 @@
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "Dark Knight Rises",
+        "title": "DarkKnight Rises",
         "discription":"A beautifull sketch on an A1-Size canvas of Bane and Batman from The Dark Knight Rises is a 2012 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan, and the story with David S. Goyer. Based on the DC Comics character Batman, it is the final installment in Nolan's The Dark Knight Trilogy.",
         "price": 999,
         "image": { "fields": { "file": { "url": "./images/product-4.png" } } }
