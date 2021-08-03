@@ -64,7 +64,7 @@ body::-webkit-scrollbar-thumb {
   z-index: 1;
 }
 .copyright {
-  margin-top: -13px;
+  margin-top: -8px;
   padding: 0 auto ;
   text-align: center;
   color: #fff;
@@ -468,7 +468,7 @@ textarea {
   height: 100%;
   width: 100%;
   overflow: hidden;
-  background-color: rgb(61, 61, 61);
+  background-color: rgb(36, 36, 36);
 }
 .modalInfo {
   display: none;
@@ -479,7 +479,7 @@ textarea {
   height: 100%;
   width: 100%;
   overflow: hidden;
-  background-color: rgb(61, 61, 61);
+  background-color: rgba(10, 10, 10, 0.658);
 }
 .modal-content-add {
   background-color: #fff;
