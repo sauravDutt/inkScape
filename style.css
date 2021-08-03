@@ -55,23 +55,12 @@ body::-webkit-scrollbar-thumb {
 /*End Preloader*/
 
 .navbar {
-
   color: #fff;
   width: 100%;
   display: flex;
   align-items: center;
   background: #1f1f1f;
   z-index: 1;
-}
-.copyright {
-  margin-top: -19px;
-  padding: 0 auto ;
-  text-align: center;
-  color: #fff;
-  background-color: #1f1f1f;
-  width: 100%;
-  align-items: center;
-  z-index: 2;
 }
 .togals {
   position: sticky;
